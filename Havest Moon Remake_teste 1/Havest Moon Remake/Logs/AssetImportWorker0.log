@@ -1,0 +1,383 @@
+Using pre-set license
+Built from '2021.3/release' branch; Version is '2021.3.17f1 (3e8111cac19d) revision 4096273'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'pt' Physical Memory: 16190 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 2021.3.17f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Gustavo Victor/Jogos/Projetos SVN/Plants Vs Zombies/Havest Moon Remake
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51296
+Successfully changed project path to: C:/Gustavo Victor/Jogos/Projetos SVN/Plants Vs Zombies/Havest Moon Remake
+C:/Gustavo Victor/Jogos/Projetos SVN/Plants Vs Zombies/Havest Moon Remake
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [29344] Host "[IP] 192.168.41.142 [Port] 0 [Flags] 2 [Guid] 3165338863 [EditorId] 3165338863 [Version] 1048832 [Id] WindowsEditor(7,SILVER13) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [29344] Host "[IP] 192.168.41.142 [Port] 0 [Flags] 2 [Guid] 3165338863 [EditorId] 3165338863 [Version] 1048832 [Id] WindowsEditor(7,SILVER13) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 325.03 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.17f1 (3e8111cac19d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.3.17f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Gustavo Victor/Jogos/Projetos SVN/Plants Vs Zombies/Havest Moon Remake/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   NVIDIA
+    VRAM:     4004 MB
+    Driver:   31.0.15.5123
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 2021.3.17f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 2021.3.17f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity 2021.3.17f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56992
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 2021.3.17f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity 2021.3.17f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity 2021.3.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.021976 seconds.
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 346 ms
+Refreshing native plugins compatible for Editor in 101.18 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.427 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1428ms)
+		BeginReloadAssembly (359ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (925ms)
+			LoadAssemblies (358ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (133ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (685ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (421ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (101ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (99ms)
+				ProcessInitializeOnLoadMethodAttributes (61ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.009466 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Gustavo Victor\Jogos\Projetos SVN\Plants Vs Zombies\Havest Moon Remake\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Gustavo Victor\Jogos\Projetos SVN\Plants Vs Zombies\Havest Moon Remake\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 98.56 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.824 seconds
+Domain Reload Profiling:
+	ReloadAssembly (6825ms)
+		BeginReloadAssembly (106ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (19ms)
+		EndReloadAssembly (6526ms)
+			LoadAssemblies (5547ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (267ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (72ms)
+			SetupLoadedEditorAssemblies (567ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (24ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (99ms)
+				BeforeProcessingInitializeOnLoad (116ms)
+				ProcessInitializeOnLoadAttributes (279ms)
+				ProcessInitializeOnLoadMethodAttributes (40ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.88 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4061 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 38 unused Assets / (56.1 KB). Loaded Objects now: 4519.
+Memory consumption went from 150.7 MB to 150.7 MB.
+Total: 5.504100 ms (FindLiveObjects: 0.298400 ms CreateObjectMapping: 1.520800 ms MarkObjects: 3.600800 ms  DeleteObjects: 0.082900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 93115.602550 seconds.
+  path: Assets/Sprites/Backgrounds
+  artifactKey: Guid(683e8d49bd3a85e4581dd53362762010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Backgrounds using Guid(683e8d49bd3a85e4581dd53362762010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dfeef2cdc30aac57bed754c994e627f') in 0.019394 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 104.911760 seconds.
+  path: Assets/Sprites/Art
+  artifactKey: Guid(683e8d49bd3a85e4581dd53362762010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art using Guid(683e8d49bd3a85e4581dd53362762010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44440761d4713e71855e3f6d71661b14') in 0.007247 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.345633 seconds.
+  path: Assets/Sprites/Art/Background
+  artifactKey: Guid(f42ea530b23bc2840b5de03a2b077cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background using Guid(f42ea530b23bc2840b5de03a2b077cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3819b36b46a6c7aacafc987c637337db') in 0.007541 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.001407 seconds.
+  path: Assets/Sprites/Art/Background/SNES - Harvest Moon - Jack (1).png
+  artifactKey: Guid(384791f2b49294441b1588a6a232f395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/SNES - Harvest Moon - Jack (1).png using Guid(384791f2b49294441b1588a6a232f395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca34c250240967d105dea4c7990c292d') in 0.156732 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.804339 seconds.
+  path: Assets/Sprites/Art/Background/Jack.png
+  artifactKey: Guid(384791f2b49294441b1588a6a232f395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack.png using Guid(384791f2b49294441b1588a6a232f395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd469c1cec1b9604b2ae83ed9687af302') in 0.040855 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.873337 seconds.
+  path: Assets/Sprites/Art/Background/Jack
+  artifactKey: Guid(074d223401bad764e99b5024a3c4552f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack using Guid(074d223401bad764e99b5024a3c4552f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a1f0f88e33e054dd3f78acd71a28a24') in 0.002523 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.664848 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite
+  artifactKey: Guid(4226c681239fefc43884167536b673ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite using Guid(4226c681239fefc43884167536b673ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '132ddd884f540bd29ddefd353e39a698') in 0.006531 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.677492 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Animation
+  artifactKey: Guid(7286c905cb3ada54ba8b54348b87f713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Animation using Guid(7286c905cb3ada54ba8b54348b87f713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '138c92fac37237b513e9e22f7fedc312') in 0.002835 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.511419 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/Jack.png
+  artifactKey: Guid(384791f2b49294441b1588a6a232f395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/Jack.png using Guid(384791f2b49294441b1588a6a232f395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64d92d23af231ddc22aa22a2a263b4da') in 0.010641 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 481.973195 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png
+  artifactKey: Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png using Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33c3a9b353d5c9563ef17c57f723de79') in 0.048395 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.342629 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/Jack.png
+  artifactKey: Guid(384791f2b49294441b1588a6a232f395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/Jack.png using Guid(384791f2b49294441b1588a6a232f395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '148ff00a94a13a0c93363feecbc19a7c') in 0.046961 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.583947 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/Jack.png
+  artifactKey: Guid(384791f2b49294441b1588a6a232f395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/Jack.png using Guid(384791f2b49294441b1588a6a232f395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b8822f07977f693e86bae7e9c15a0eb') in 0.011029 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 129.328691 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1) 1.png
+  artifactKey: Guid(dad576430c2d1714295cd76840e8b0b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1) 1.png using Guid(dad576430c2d1714295cd76840e8b0b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d772d63482a7a37dd0650c0518154c3') in 0.044795 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.297472 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png
+  artifactKey: Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png using Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '270b457ad72947f075ab74094f232594') in 0.038152 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.450924 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png
+  artifactKey: Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png using Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9ade8b2e04d13d6cedb41eb45f542b3') in 0.009939 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.145409 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png
+  artifactKey: Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png using Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85c338e4bf5dde280db453e6cdc8ee15') in 0.010183 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.776349 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png
+  artifactKey: Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png using Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79d85e3bf843ac8202fa3ef0747ddd43') in 0.009919 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.722455 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png
+  artifactKey: Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png using Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cebdeb40b98efd794d698da092864cc') in 0.010742 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.803811 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png
+  artifactKey: Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png using Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2db6a4226bfd9b24ffb6c47dc91ae26e') in 0.011229 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.059267 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png
+  artifactKey: Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png using Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7688fb6961d6f1dd3bfb0e3c314934c3') in 0.009230 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.737192 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png
+  artifactKey: Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png using Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '194c38ca723a7b0aac439d116499954c') in 0.010221 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.864157 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png
+  artifactKey: Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png using Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68dbc5396b7c6ec8e9ae63212f89f178') in 0.009384 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.157130 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png
+  artifactKey: Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png using Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e84a25295d292b71a07bd82d680a5709') in 0.011284 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.200473 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png
+  artifactKey: Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png using Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3be2c0d9c11db6a2f97f258aca650d9') in 0.010111 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.099954 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png
+  artifactKey: Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png using Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c4252d16b207eb0117b8197b5799e3c') in 0.011061 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.293715 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png
+  artifactKey: Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png using Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3278089dd437c2bb7ff07a11fb5d7d1b') in 0.010825 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.826572 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png
+  artifactKey: Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png using Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e03124c2d4fbdd5737c81c6b7b0eb41') in 0.013988 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.477096 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png
+  artifactKey: Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png using Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85da8234eda65c2dc561c93937f81e6e') in 0.011044 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.471881 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png
+  artifactKey: Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png using Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06a87d2414ad297fbc7052c4d5baf77f') in 0.011807 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.204028 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png
+  artifactKey: Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png using Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd820367ecf7c46a32f1ba0e9aace596e') in 0.011404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.906200 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png
+  artifactKey: Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png using Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73cc8d3cead0a083ad5e7625110f426d') in 0.013129 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.879048 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png
+  artifactKey: Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png using Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '504fd6abd9795921d3b10a4233cc99d1') in 0.012259 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.438801 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png
+  artifactKey: Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png using Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eabb01cb9d8fbb5e1683633df4807ebd') in 0.010959 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.279943 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png
+  artifactKey: Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png using Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c8878a60c670d6a196d3c25ac1a3af5') in 0.010391 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 263.889295 seconds.
+  path: Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png
+  artifactKey: Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Art/Background/Jack/Sprite/SNES - Harvest Moon - Jack (1).png using Guid(3c23848644c77c24e99e2580fc2bfbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33ee6ff8c8ea76a181b33445279e7e48') in 0.346533 seconds 

@@ -1,0 +1,5141 @@
+fileFormatVersion: 2
+guid: 3c23848644c77c24e99e2580fc2bfbf4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 2
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 1
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1175
+        width: 462
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1373aa467f49d7941a3847cabde8958f
+      internalID: -1810016612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1153
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f89dcde2fceebe44834382296e03949
+      internalID: -641917497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1155
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c788558476955f4b89d40215a22846f
+      internalID: 784082374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1155
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62e0e146309d5d4cbb1df1537cac115
+      internalID: 207415994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1149
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dd883bac69c344a97344e8d8e53d12
+      internalID: 1934547168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1127
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb343e712088edb449bcd2a26e53e5dc
+      internalID: 579936732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1127
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3caec8d43ae6384d8165ddaad7b95ac
+      internalID: 234610478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1130
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b54111f5ff3e9b4bac6879c0a7d8589
+      internalID: -1978074918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_8
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1150
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5bf224c1f050f4c90efa6379b04d45
+      internalID: -1628777035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_9
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1149
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42b2b2ca89b84443b0b2bed64e21db7
+      internalID: 908937113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_10
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1145
+        width: 68
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c149ce6e1f0f29479aae8d36818f6ba
+      internalID: 1166221400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1124
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1eb25f2884f0f46aa8fc459976be20
+      internalID: 218729916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_12
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1130
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f85bb5e8e9b7e439f35ff24f58f4a7
+      internalID: 446206168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_13
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1119
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6b8df05b3ee954eb77f4234a8ce7a0
+      internalID: -381828801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1127
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45e97e5831f9214cb056a4b088c07ff
+      internalID: 1878559179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_15
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1114
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e86241bdefcdc04cbd13e46b9a68a41
+      internalID: -736621297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_16
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1114
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7673a95b63fd5054e995c54c875cd27a
+      internalID: 1328658995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_17
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1099
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930de483a42e77c4595c40c0d7e9b9da
+      internalID: 690907011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_18
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1099
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18a14aaabdb2b64fa576edca0851273
+      internalID: -439651720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1099
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c729b0eb0103a4da9a08b0da2469dd
+      internalID: 1557734784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1105
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12269d63d599c934bbc89568ddc94e24
+      internalID: 1267586770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_21
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1089
+        width: 54
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17555a930d384e84ba6ecf0958b7875b
+      internalID: -1267785921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_22
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1089
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b49098d45a83984f8c6453586c858a5
+      internalID: 732103643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_23
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1085
+        width: 74
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf2059aa13abf34aad9b25145f06c81
+      internalID: -219908648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_24
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1062
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e351351971fbc02498d27ab9b0f6319c
+      internalID: 1036533999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1062
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b245618d6a6d1a647a3a8fad2f83ddc9
+      internalID: -969335336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1069
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd032aac86e0a640a89ffc0ca4c155e
+      internalID: -1015650087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1068
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db61c1074bf25443ba8053468efec8e
+      internalID: -939503547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1063
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493d8b4118eb957438477bfd7c160e3e
+      internalID: -895617379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_29
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1063
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8599e34f6c969b24e8f37ce6e86d0b45
+      internalID: -1825969786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_30
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1051
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18877af893f3784bb9324d044ddfc34
+      internalID: -1853718051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_31
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1051
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbccfe4254255ea41a53d75a6b0c39de
+      internalID: 876183781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1062
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51ed613c82a9db429291db694177967
+      internalID: -158373543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_33
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1038
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c07844f7ae522a46b4709eb61e26b49
+      internalID: 617530833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_34
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1049
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2016eae01f036184da062ec87e288e73
+      internalID: -1312224707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_35
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1029
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ed5aa00f1de9a469fd87a0e3115e88
+      internalID: -863621117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_36
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1029
+        width: 85
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b63500872a8b13468faaf5fa133bd43
+      internalID: 885741465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_37
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1027
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2390431e624c05e45bd2457cb28eb21f
+      internalID: -1674963234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_38
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1027
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc70fee0d99a384eba4da19f51c5a7f
+      internalID: 89832360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_39
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1027
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76633c89bdea874f9257224c10563a1
+      internalID: -763229558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_40
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1031
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85936bf00b34e5d44ae9d0e5909baf50
+      internalID: 1513093653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_41
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1031
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebedfad46b614e44ba95946f450c27aa
+      internalID: 773387755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_42
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 992
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0d1331551ffeb46abe1aa08f04bac9
+      internalID: 320110528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_43
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 992
+        width: 68
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3b1da524d34c44cbe6247554c7a10b
+      internalID: 1851742095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_44
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 992
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d00d846773240945b51066956c3207f
+      internalID: 413673696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_45
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 998
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820fdb291ee2d144b861c1a3883aa7c4
+      internalID: 113977550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_46
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 994
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1b56578c472ae4b9fe78c55ab4d421
+      internalID: 1070114999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_47
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 994
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bb26f4cd1251648b8854d8630958ea
+      internalID: 363078861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_48
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 987
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ad8a689b6b4664d81faccb65ea7f2f
+      internalID: 1903558932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_49
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 987
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c70fc3cd0e4853438462d74e2be08a2
+      internalID: -1549415084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_50
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 987
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2c3d8074b1171499a34f42313c281c
+      internalID: -954239075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_51
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 987
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125f274919862af40b48130d095f7c09
+      internalID: 1475996060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_52
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 946
+        width: 85
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa72f66917582f94594484e25fe7d232
+      internalID: 301164550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_53
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 946
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd75af414098e0042a88dffc66c153b6
+      internalID: 312007364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_54
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 957
+        width: 101
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e855c98adb6a5b4abbf8436fb51323b
+      internalID: 1142690302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_55
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 943
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9290baad77ce707428d018c54f23d7e9
+      internalID: -746017428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_56
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 952
+        width: 76
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1339850f0ac521242942dd07f488bf0a
+      internalID: 136125280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_57
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 933
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e858ae43b90c64fb8e95d28b83b704
+      internalID: -1392609544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_58
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 934
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccfcc23195067b45afa6a71168e8edf
+      internalID: 1734969954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_59
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 932
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c44d1a269a7a2848ac4005c50922858
+      internalID: 589839112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_60
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 945
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40f094f4568a7a43b6b7c198f4c86cc
+      internalID: 1511373956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_61
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 912
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6580944aeca8140a98f01132b9a25f
+      internalID: -536628713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_62
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 912
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78050b1d03210934faec934f0c65f3a9
+      internalID: -127976576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_63
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 913
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf3d138098b0bd43b69b0ba77447949
+      internalID: 754073395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_64
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 911
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c3300abac15784a9aaa7568a2249b0
+      internalID: 1056841369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_65
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 912
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c9e93fd5f8fd34c8a21e22b9990c2e
+      internalID: -889965770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_66
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 912
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b09e309af4683c46917e4b43e6ebe49
+      internalID: 1991004135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_67
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 912
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc0a6bc67bd4fb45b3205a448984db6
+      internalID: -12258599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_68
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 894
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1f2339789596043a77556cc883a90f
+      internalID: -1379269834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_69
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 913
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387f50dfc7bc2c34b9fcf64506eecee3
+      internalID: 1503188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_70
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 913
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad69f80150ac9744a63a7e631db9430
+      internalID: -1904565669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_71
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 914
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0138e8b52a1e5234fa4d0dc7ea9c483e
+      internalID: -1266311409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_72
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 914
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d146b577e3966f42bb45df616253779
+      internalID: 740142224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_73
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 885
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a899f84c21089e74d91bf99e7d810de5
+      internalID: -1980850754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_74
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 885
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a2afb1eb22f2747a3a03e98c38909b
+      internalID: -1194070393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_75
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 890
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f70824a0a3bda4a872b5873610a3c9
+      internalID: 1425031655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_76
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 885
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44e324d6eb5ee34cab264eccf2a0fe5
+      internalID: -2031715356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_77
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 894
+        width: 103
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626ebe5e262b0e244a4590b633452be1
+      internalID: -692681621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_78
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 885
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6661d85e718cc9d4791666ef95bff672
+      internalID: 651774739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_79
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 878
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d61885daeddef54ab8f844fcd4ca954
+      internalID: 1570040884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_80
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 878
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9510b4d97687c16429c8ec4f53715b6e
+      internalID: -330938243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_81
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 850
+        width: 89
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef4eaf5101117e4ab3c1e5772a66358
+      internalID: -1747243870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_82
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 850
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14d661b5a427894aa0e79bd5678a181
+      internalID: -174369556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_83
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 853
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8232866f1b9eada4fa9292d8e1adc2ee
+      internalID: 1263260636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_84
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 853
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c281994ad11097a4e84e886a638ec927
+      internalID: -797365007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_85
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 853
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719fc41e54da31c4a9c550fc765d11c6
+      internalID: -696673669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_86
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 846
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100d6267b1b9e144bbf454e9a93d2525
+      internalID: 533875195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_87
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 849
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6395ec4cc60b5134b9e7c12ec10fecac
+      internalID: -1850846495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_88
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 816
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d3722135f864744882459dc617ed66
+      internalID: 924969260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_89
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 816
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b857086d5bfbccf4883ec3b65962be0a
+      internalID: 269500071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_90
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 816
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22572c7870035d47886736eb760b9c1
+      internalID: -182863159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_91
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 817
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d487faa07177e1143acebcee24d11e01
+      internalID: -2000494141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_92
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 822
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0dde003e71b8c41906ec511a7765ae
+      internalID: -458685965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_93
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 823
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556d7eb592d29b74d93551b4adbc801c
+      internalID: 1106739483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_94
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 823
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa4f96f4ec014d4bb9942e7fa3ba644
+      internalID: 814995446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_95
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 814
+        width: 52
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e167979b879dbf4eba83be22ec2d4bd
+      internalID: 724836165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_96
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 763
+        width: 75
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077ac930167f737449244c29832a81ab
+      internalID: -236222643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_97
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 774
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944bf2130387d5447b77b4adc4619051
+      internalID: 1033562034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_98
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 778
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60930ba511ecfe942b85e501eac14d14
+      internalID: -1084041405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_99
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 775
+        width: 125
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5fef7caed3445429b994019aca62ee
+      internalID: 1430512815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_100
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 718
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a7a86d3fb083243aec676f72ac19a5
+      internalID: 258862560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_101
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 725
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4d6d15d962a0343ba43ebecf052024
+      internalID: 1754781632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_102
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 725
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e1d90f3daee4840a839729c233acef
+      internalID: 1522470303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_103
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 727
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dd78897346be445938290f3a3e82b9
+      internalID: -812139288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_104
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 730
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7133068d0458d2c4bab0595f12766c43
+      internalID: -1811753771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_105
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 727
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca332bb4bdeeee4d94deac3a19a055d
+      internalID: 2000978812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 705
+        width: 462
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee91453b7940364d817ba8238be96b2
+      internalID: 544492786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_107
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 674
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97153849169a7a5449c350552a71f0de
+      internalID: -228904126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_108
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 672
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70ed1a12d0f0eb4f9b3220cb65a2ff6
+      internalID: -185533672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_109
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 673
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2d42de0be15064681d8504db25a752
+      internalID: -512289129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_110
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 672
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3401d4275c8bd7a4dab0763357e459db
+      internalID: 1665442270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_111
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 669
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03375cb39ba299e499808c2fd24d0afb
+      internalID: 904490513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_112
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 669
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed370f7c01f27664c8279c47495f506d
+      internalID: -993647298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_113
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 676
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74958408fda2f2d4c9e31603b2f8310c
+      internalID: -1591563165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_114
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 666
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e277475922cb9714e869b0cf12d03841
+      internalID: -1334412733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_115
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 645
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a0b97cbffaf4d4690230c2ae8f39b5
+      internalID: 430266068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_116
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 644
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00d22196f5734645bb7cb22de783556
+      internalID: -791909159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_117
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 644
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2a1f76aa60ab643be5a9e587ba1b1e
+      internalID: 833643931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_118
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 644
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3feeecf5001614c458b975c53329ea26
+      internalID: 1255469605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_119
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 634
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fefd7b86270ad641b7bf81039037b18
+      internalID: -574054783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_120
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 634
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8beb4f47f5bf3f47a4d37eae596976e
+      internalID: 1255817325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_121
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 639
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1163befdfb99c7448e2edb44942e943
+      internalID: 1378784178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_122
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 639
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a822b5decb5d3644986d537247e3795
+      internalID: 2000872245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_123
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 615
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf029d44c11902438ad08f6ad2e0183
+      internalID: 919178010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_124
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 615
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d2ab74f9290fe44a6266590a33375a
+      internalID: -1547592797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_125
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 600
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa79ae8fe1492641a9cc85f0baf1d04
+      internalID: 419012023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_126
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 600
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9ad52cb74efb64090f06ddafe87eb1
+      internalID: 1896947355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_127
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 601
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8145ab5b119a9c74eae700e9f774d5e2
+      internalID: -1694552320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_128
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 609
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5b60697c72c194c8687da3e91f94a8
+      internalID: 1365836676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_129
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 544
+        width: 68
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff54bd0a3359b2141a3478e0f1f0abb2
+      internalID: -195214094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_130
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 554
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652dba9f604a41f47bd3a1846bfb0e27
+      internalID: 880139445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_131
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 554
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5521b66026ad904ab2a4766abd032d9
+      internalID: 2050095434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_132
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 556
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b58a20abd375f40b6857b0690f421e
+      internalID: -275430886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_133
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 549
+        width: 70
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e207f7471c020544bbb8952f0219f42
+      internalID: -1141789375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_134
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 504
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225ad4b6c77352747b1b436dd4b411b5
+      internalID: -1562279512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_135
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 504
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddab4f3b3ca7f804a9bf964b6ae084e9
+      internalID: 1603870254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_136
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 512
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9407084e600e284195bb0ffc068b5d7
+      internalID: 1013026558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_137
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 512
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a7ee9083ecf9a4d89e8c5e3fdbd4a8
+      internalID: 560207990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_138
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 512
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb74721c1962cd047b507f12191229b3
+      internalID: -1957856836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_139
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 508
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14ee2f3440ccf742b339222d8beabae
+      internalID: 1757784113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_140
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 508
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a9fc9a7905d5341b2ed417ade854a0
+      internalID: -644625059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_141
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 472
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e887bf4c42b2df4ab4a064ee1694e5f
+      internalID: -150032403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_142
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 472
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1a9a3e09459264cbd9764d2c5dbbd1
+      internalID: 1902717009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_143
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 472
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5200486583c50d44791edf1f41039828
+      internalID: -1247865730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_144
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 472
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73668630db411d74f8c1ffe35743f54d
+      internalID: -409817656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_145
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 476
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98be3daae56206f45a97131a6c71d77a
+      internalID: 1306981956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_146
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 467
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d821fce9427da7641b570da144489c06
+      internalID: -1550615172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_147
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 476
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0327038d43bf249bdeb08db150943e
+      internalID: 540536365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_148
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 472
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea31850de6c2ed0498d12e936323ef9a
+      internalID: 828354091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_149
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 470
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fbcbfb39970e047bf232e4af67165e
+      internalID: 1888988519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_150
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 472
+        width: 62
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882a6a16612da784ebf442c911fb0cb8
+      internalID: -2110736535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_151
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 434
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7338558a77e896340ba97c6383481c5c
+      internalID: 134428852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_152
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 429
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea319d0b5475ec84a91da034e08d89d9
+      internalID: -1228759033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_153
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 429
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02bd439e1741e643a09cdb855175863
+      internalID: 388183431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_154
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 429
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5393a45651a44945a3fd25d4bcefd62
+      internalID: 1598845088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_155
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 429
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401775dee1d1d3c46a0765dc5d7e127d
+      internalID: -1720078239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_156
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 429
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d098bf55b1230fb4789e0d6bedd1e290
+      internalID: 1259006199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_157
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 436
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecdf25f923d0f04aa2421a5b88dffe0
+      internalID: 1436052624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_158
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 436
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f87cf93d1d9bb41af06e579c8b26ba
+      internalID: -1973579195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_159
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 436
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0da34ecfc4b254581d7ddd5fdd8276
+      internalID: 2063842814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_160
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 436
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a1b5c55824a8b4884e4ccbd88089d0
+      internalID: -290151654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_161
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 436
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d258976aa90a62e40bfd63a6be849d36
+      internalID: -958542032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_162
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 436
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f72b40b96d7e7d418b11a7dd89afa3a
+      internalID: 1303627321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_163
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 436
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d1b290e5832314a8a3f1eeea9ca66f
+      internalID: 1356783421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_164
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 410
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33802941102608428b90b0dedaf01ae
+      internalID: -1490790497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_165
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 410
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cc1ba244d22024bb77bdfea10e589c
+      internalID: -213307864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_166
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 391
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd7e84d8099df94b8eab4831a7e7f71
+      internalID: 2132951830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_167
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 391
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6527c139fecb3a4aa01ade1a31509c7
+      internalID: -1264281259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_168
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 391
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2e5b5e8bd4e664cb3cde44ee53cefb
+      internalID: 1627144378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_169
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 391
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0febe48f4126c4ca01ed333a738a5b
+      internalID: -1203383502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_170
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 408
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591e6857dc71fa34a8c06d8a33f710dc
+      internalID: 1346604637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_171
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 407
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd4b305282415b43917516a8c9e6b83
+      internalID: -270199601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_172
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 407
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1feb620cb99e54da6e64e87a65f590
+      internalID: -1142741415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_173
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 407
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1effc2f56a56954f89d9d52d9772711
+      internalID: 1747772021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_174
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 383
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e68f03ebbc47dd4c8b6b36718735f5e
+      internalID: 456753784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_175
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 379
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b5103a7ffa89042a16eacd3128251d
+      internalID: 721674763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_176
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 379
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28af4a161a632da478782292c04a5f93
+      internalID: 570278804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_177
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 379
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ff99da1eead7f4fbdf3d0e1caec615
+      internalID: 77779970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_178
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 379
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6da43235a7a3c54b85b39b5b771902a
+      internalID: 862316715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_179
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 365
+        width: 462
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0749fbe8b36cb8e4e8885d3b0cc72cfd
+      internalID: -344842419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_180
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6c0f87f9bb941408c87fe73237ad5e
+      internalID: -4049413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_181
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 288
+        width: 80
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9a28fef3561cd4b9aa40b8dc604a32
+      internalID: -1776682066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_182
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 298
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc4b83f3b5f6aa4d86f40fe93e8af4a
+      internalID: 724598559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_183
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 298
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612dd6cfb66084f4c88d4ef92ed2325a
+      internalID: 1827817147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_184
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 247
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d548e35bd21f5f74c9eb64745d404c96
+      internalID: 2089780589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_185
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 247
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3f43fddac6c1c449db3efc2860ff8d
+      internalID: 376169456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_186
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 241
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fbec3baa7da7a47921a01c0f5c0b8e
+      internalID: 279815480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_187
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 241
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd4460c50bd6114b9f80bce5c6cf65f
+      internalID: 2129325553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_188
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 240
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fb2fb14fb415747910c0cfa6bf883e
+      internalID: -1891440448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_189
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 246
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9343736d5fad94897774bbe485eb93
+      internalID: 998403343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_190
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 246
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29931816d2515f54fa10f518413f876a
+      internalID: 2012983088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_191
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 241
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eeff9f85cfcb72449f419cf1f0a312a
+      internalID: 871684381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_192
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 241
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9233f0d0c7c745542a527973ca4eea42
+      internalID: -1207651929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_193
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 197
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d260700ec4e4aa42921b29cc9b49eee
+      internalID: 410729931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_194
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 197
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9befd3e63568747aa81bea7991c940
+      internalID: 916931649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_195
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 198
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56a595ed5afe4d4599f0d8c1db2457e
+      internalID: 1945523350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_196
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 199
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0093475e74eac24d81a1ae766c1ca35
+      internalID: -1334737592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_197
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 197
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da58142e2e022947826085618be547d
+      internalID: -597928951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_198
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 197
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c62cb98f0a5e1e4c850dfb57f465aff
+      internalID: -1473956605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_199
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 193
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3596b400460057845b1c3242aa44aa9d
+      internalID: -1928197584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_200
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 193
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dabd2febbb4a9d4a8815afa217337db
+      internalID: 258061683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_201
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 193
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83d481facb9ad04ba0feb73c243b1d1
+      internalID: 1976702862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_202
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 146
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9a659960784be47aab8962823b11aa
+      internalID: 1553656821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_203
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 145
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e30a8ce8cf0b047a24b22088f6d17e
+      internalID: 160450372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_204
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 129
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d34d68fb504a8648adcddb7db076468
+      internalID: -393192404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_205
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 136
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a5644a1348a0244816bbbe3d1b9837
+      internalID: 1939116252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_206
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 135
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947c6cc28947f294196a725b8b16585c
+      internalID: -1273001664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_207
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 135
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c222d7ab07a691a4db42015c8bcf89de
+      internalID: 786740181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_208
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 135
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec425cc01e9e264aad1cb74e389f3be
+      internalID: -542101849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_209
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 135
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98456a7a55cfd7c4abbd8d96eccc595e
+      internalID: 580543132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_210
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 153
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbaefead0ff81714d9ab23ea43772f32
+      internalID: -355163258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_211
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 152
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a2c16151d025a47bdecdb014783ff8
+      internalID: 1702929711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_212
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 135
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed084cf5012a3e04eb8338c83b6a82fd
+      internalID: -1204438829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_213
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 82
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae6107eefea8f7478b1d611165f9ba1
+      internalID: 1001389285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_214
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3964d5f387e198d44b835b153e8323ac
+      internalID: -980768664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_215
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 82
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc0ba8cf86b89946b0eb48b57502bed
+      internalID: -347587946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_216
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 82
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f1ec32c71a7a64b98fbae488a67b68
+      internalID: -1150719880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_217
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 83
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f434006215ec67f4c8af0079c20d6fb6
+      internalID: 1407956162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_218
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 83
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903a4f66ed54d474ba889cb59eb8914e
+      internalID: -1855407395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_219
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 83
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219dcbd090442b3459041ff63e298aac
+      internalID: 262509705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_220
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 24
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34642b7aa5c2a744e94900cccbd71f30
+      internalID: 1176013543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_221
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 24
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86886a302df7bc459d7bd4525eca5ac
+      internalID: -553214670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_222
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 17
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ba4e92bed07d941a0e689c63454b27
+      internalID: -1420999898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_223
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab73aa33116fdd64f8118082f37278c5
+      internalID: 1052415063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_224
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 24
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b539528619824c4db9a5e19d8ea5c2b
+      internalID: -1521310595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_225
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 45
+        width: 101
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a012a2a58f1bd24899fd7a949e06d6b
+      internalID: -1565889815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Jack (1)_226
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 462
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe838958a550dc24eacabff067142a7e
+      internalID: 1457434105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - Harvest Moon - Jack (1)_165: -213307864
+      SNES - Harvest Moon - Jack (1)_188: -1891440448
+      SNES - Harvest Moon - Jack (1)_157: 1436052624
+      SNES - Harvest Moon - Jack (1)_99: 1430512815
+      SNES - Harvest Moon - Jack (1)_223: 1052415063
+      SNES - Harvest Moon - Jack (1)_191: 871684381
+      SNES - Harvest Moon - Jack (1)_200: 258061683
+      SNES - Harvest Moon - Jack (1)_14: 1878559179
+      SNES - Harvest Moon - Jack (1)_131: 2050095434
+      SNES - Harvest Moon - Jack (1)_202: 1553656821
+      SNES - Harvest Moon - Jack (1)_2: 784082374
+      SNES - Harvest Moon - Jack (1)_8: -1628777035
+      SNES - Harvest Moon - Jack (1)_83: 1263260636
+      SNES - Harvest Moon - Jack (1)_21: -1267785921
+      SNES - Harvest Moon - Jack (1)_48: 1903558932
+      SNES - Harvest Moon - Jack (1)_142: 1902717009
+      SNES - Harvest Moon - Jack (1)_55: -746017428
+      SNES - Harvest Moon - Jack (1)_123: 919178010
+      SNES - Harvest Moon - Jack (1)_164: -1490790497
+      SNES - Harvest Moon - Jack (1)_211: 1702929711
+      SNES - Harvest Moon - Jack (1)_128: 1365836676
+      SNES - Harvest Moon - Jack (1)_118: 1255469605
+      SNES - Harvest Moon - Jack (1)_184: 2089780589
+      SNES - Harvest Moon - Jack (1)_46: 1070114999
+      SNES - Harvest Moon - Jack (1)_85: -696673669
+      SNES - Harvest Moon - Jack (1)_153: 388183431
+      SNES - Harvest Moon - Jack (1)_163: 1356783421
+      SNES - Harvest Moon - Jack (1)_116: -791909159
+      SNES - Harvest Moon - Jack (1)_4: 1934547168
+      SNES - Harvest Moon - Jack (1)_179: -344842419
+      SNES - Harvest Moon - Jack (1)_80: -330938243
+      SNES - Harvest Moon - Jack (1)_106: 544492786
+      SNES - Harvest Moon - Jack (1)_82: -174369556
+      SNES - Harvest Moon - Jack (1)_107: -228904126
+      SNES - Harvest Moon - Jack (1)_178: 862316715
+      SNES - Harvest Moon - Jack (1)_171: -270199601
+      SNES - Harvest Moon - Jack (1)_10: 1166221400
+      SNES - Harvest Moon - Jack (1)_209: 580543132
+      SNES - Harvest Moon - Jack (1)_169: -1203383502
+      SNES - Harvest Moon - Jack (1)_190: 2012983088
+      SNES - Harvest Moon - Jack (1)_88: 924969260
+      SNES - Harvest Moon - Jack (1)_110: 1665442270
+      SNES - Harvest Moon - Jack (1)_111: 904490513
+      SNES - Harvest Moon - Jack (1)_104: -1811753771
+      SNES - Harvest Moon - Jack (1)_219: 262509705
+      SNES - Harvest Moon - Jack (1)_108: -185533672
+      SNES - Harvest Moon - Jack (1)_17: 690907011
+      SNES - Harvest Moon - Jack (1)_218: -1855407395
+      SNES - Harvest Moon - Jack (1)_206: -1273001664
+      SNES - Harvest Moon - Jack (1)_92: -458685965
+      SNES - Harvest Moon - Jack (1)_16: 1328658995
+      SNES - Harvest Moon - Jack (1)_215: -347587946
+      SNES - Harvest Moon - Jack (1)_151: 134428852
+      SNES - Harvest Moon - Jack (1)_225: -1565889815
+      SNES - Harvest Moon - Jack (1)_18: -439651720
+      SNES - Harvest Moon - Jack (1)_214: -980768664
+      SNES - Harvest Moon - Jack (1)_198: -1473956605
+      SNES - Harvest Moon - Jack (1)_120: 1255817325
+      SNES - Harvest Moon - Jack (1)_139: 1757784113
+      SNES - Harvest Moon - Jack (1)_79: 1570040884
+      SNES - Harvest Moon - Jack (1)_112: -993647298
+      SNES - Harvest Moon - Jack (1)_140: -644625059
+      SNES - Harvest Moon - Jack (1)_222: -1420999898
+      SNES - Harvest Moon - Jack (1)_208: -542101849
+      SNES - Harvest Moon - Jack (1)_1: -641917497
+      SNES - Harvest Moon - Jack (1)_5: 579936732
+      SNES - Harvest Moon - Jack (1)_0: -1810016612
+      SNES - Harvest Moon - Jack (1)_22: 732103643
+      SNES - Harvest Moon - Jack (1)_90: -182863159
+      SNES - Harvest Moon - Jack (1)_154: 1598845088
+      SNES - Harvest Moon - Jack (1)_25: -969335336
+      SNES - Harvest Moon - Jack (1)_133: -1141789375
+      SNES - Harvest Moon - Jack (1)_207: 786740181
+      SNES - Harvest Moon - Jack (1)_145: 1306981956
+      SNES - Harvest Moon - Jack (1)_87: -1850846495
+      SNES - Harvest Moon - Jack (1)_216: -1150719880
+      SNES - Harvest Moon - Jack (1)_78: 651774739
+      SNES - Harvest Moon - Jack (1)_73: -1980850754
+      SNES - Harvest Moon - Jack (1)_61: -536628713
+      SNES - Harvest Moon - Jack (1)_32: -158373543
+      SNES - Harvest Moon - Jack (1)_136: 1013026558
+      SNES - Harvest Moon - Jack (1)_86: 533875195
+      SNES - Harvest Moon - Jack (1)_30: -1853718051
+      SNES - Harvest Moon - Jack (1)_205: 1939116252
+      SNES - Harvest Moon - Jack (1)_113: -1591563165
+      SNES - Harvest Moon - Jack (1)_174: 456753784
+      SNES - Harvest Moon - Jack (1)_54: 1142690302
+      SNES - Harvest Moon - Jack (1)_7: -1978074918
+      SNES - Harvest Moon - Jack (1)_35: -863621117
+      SNES - Harvest Moon - Jack (1)_6: 234610478
+      SNES - Harvest Moon - Jack (1)_212: -1204438829
+      SNES - Harvest Moon - Jack (1)_146: -1550615172
+      SNES - Harvest Moon - Jack (1)_220: 1176013543
+      SNES - Harvest Moon - Jack (1)_96: -236222643
+      SNES - Harvest Moon - Jack (1)_13: -381828801
+      SNES - Harvest Moon - Jack (1)_43: 1851742095
+      SNES - Harvest Moon - Jack (1)_176: 570278804
+      SNES - Harvest Moon - Jack (1)_132: -275430886
+      SNES - Harvest Moon - Jack (1)_168: 1627144378
+      SNES - Harvest Moon - Jack (1)_91: -2000494141
+      SNES - Harvest Moon - Jack (1)_97: 1033562034
+      SNES - Harvest Moon - Jack (1)_64: 1056841369
+      SNES - Harvest Moon - Jack (1)_194: 916931649
+      SNES - Harvest Moon - Jack (1)_144: -409817656
+      SNES - Harvest Moon - Jack (1)_44: 413673696
+      SNES - Harvest Moon - Jack (1)_187: 2129325553
+      SNES - Harvest Moon - Jack (1)_31: 876183781
+      SNES - Harvest Moon - Jack (1)_177: 77779970
+      SNES - Harvest Moon - Jack (1)_193: 410729931
+      SNES - Harvest Moon - Jack (1)_122: 2000872245
+      SNES - Harvest Moon - Jack (1)_137: 560207990
+      SNES - Harvest Moon - Jack (1)_11: 218729916
+      SNES - Harvest Moon - Jack (1)_141: -150032403
+      SNES - Harvest Moon - Jack (1)_125: 419012023
+      SNES - Harvest Moon - Jack (1)_95: 724836165
+      SNES - Harvest Moon - Jack (1)_74: -1194070393
+      SNES - Harvest Moon - Jack (1)_102: 1522470303
+      SNES - Harvest Moon - Jack (1)_89: 269500071
+      SNES - Harvest Moon - Jack (1)_9: 908937113
+      SNES - Harvest Moon - Jack (1)_182: 724598559
+      SNES - Harvest Moon - Jack (1)_221: -553214670
+      SNES - Harvest Moon - Jack (1)_189: 998403343
+      SNES - Harvest Moon - Jack (1)_26: -1015650087
+      SNES - Harvest Moon - Jack (1)_58: 1734969954
+      SNES - Harvest Moon - Jack (1)_70: -1904565669
+      SNES - Harvest Moon - Jack (1)_27: -939503547
+      SNES - Harvest Moon - Jack (1)_143: -1247865730
+      SNES - Harvest Moon - Jack (1)_210: -355163258
+      SNES - Harvest Moon - Jack (1)_162: 1303627321
+      SNES - Harvest Moon - Jack (1)_42: 320110528
+      SNES - Harvest Moon - Jack (1)_39: -763229558
+      SNES - Harvest Moon - Jack (1)_161: -958542032
+      SNES - Harvest Moon - Jack (1)_117: 833643931
+      SNES - Harvest Moon - Jack (1)_115: 430266068
+      SNES - Harvest Moon - Jack (1)_197: -597928951
+      SNES - Harvest Moon - Jack (1)_155: -1720078239
+      SNES - Harvest Moon - Jack (1)_159: 2063842814
+      SNES - Harvest Moon - Jack (1)_33: 617530833
+      SNES - Harvest Moon - Jack (1)_45: 113977550
+      SNES - Harvest Moon - Jack (1)_127: -1694552320
+      SNES - Harvest Moon - Jack (1)_152: -1228759033
+      SNES - Harvest Moon - Jack (1)_40: 1513093653
+      SNES - Harvest Moon - Jack (1)_66: 1991004135
+      SNES - Harvest Moon - Jack (1)_124: -1547592797
+      SNES - Harvest Moon - Jack (1)_172: -1142741415
+      SNES - Harvest Moon - Jack (1)_175: 721674763
+      SNES - Harvest Moon - Jack (1)_130: 880139445
+      SNES - Harvest Moon - Jack (1)_166: 2132951830
+      SNES - Harvest Moon - Jack (1)_68: -1379269834
+      SNES - Harvest Moon - Jack (1)_183: 1827817147
+      SNES - Harvest Moon - Jack (1)_148: 828354091
+      SNES - Harvest Moon - Jack (1)_196: -1334737592
+      SNES - Harvest Moon - Jack (1)_63: 754073395
+      SNES - Harvest Moon - Jack (1)_158: -1973579195
+      SNES - Harvest Moon - Jack (1)_28: -895617379
+      SNES - Harvest Moon - Jack (1)_180: -4049413
+      SNES - Harvest Moon - Jack (1)_138: -1957856836
+      SNES - Harvest Moon - Jack (1)_134: -1562279512
+      SNES - Harvest Moon - Jack (1)_150: -2110736535
+      SNES - Harvest Moon - Jack (1)_12: 446206168
+      SNES - Harvest Moon - Jack (1)_201: 1976702862
+      SNES - Harvest Moon - Jack (1)_75: 1425031655
+      SNES - Harvest Moon - Jack (1)_19: 1557734784
+      SNES - Harvest Moon - Jack (1)_60: 1511373956
+      SNES - Harvest Moon - Jack (1)_185: 376169456
+      SNES - Harvest Moon - Jack (1)_49: -1549415084
+      SNES - Harvest Moon - Jack (1)_34: -1312224707
+      SNES - Harvest Moon - Jack (1)_57: -1392609544
+      SNES - Harvest Moon - Jack (1)_37: -1674963234
+      SNES - Harvest Moon - Jack (1)_53: 312007364
+      SNES - Harvest Moon - Jack (1)_224: -1521310595
+      SNES - Harvest Moon - Jack (1)_195: 1945523350
+      SNES - Harvest Moon - Jack (1)_226: 1457434105
+      SNES - Harvest Moon - Jack (1)_56: 136125280
+      SNES - Harvest Moon - Jack (1)_94: 814995446
+      SNES - Harvest Moon - Jack (1)_203: 160450372
+      SNES - Harvest Moon - Jack (1)_72: 740142224
+      SNES - Harvest Moon - Jack (1)_109: -512289129
+      SNES - Harvest Moon - Jack (1)_213: 1001389285
+      SNES - Harvest Moon - Jack (1)_38: 89832360
+      SNES - Harvest Moon - Jack (1)_181: -1776682066
+      SNES - Harvest Moon - Jack (1)_101: 1754781632
+      SNES - Harvest Moon - Jack (1)_103: -812139288
+      SNES - Harvest Moon - Jack (1)_170: 1346604637
+      SNES - Harvest Moon - Jack (1)_121: 1378784178
+      SNES - Harvest Moon - Jack (1)_105: 2000978812
+      SNES - Harvest Moon - Jack (1)_135: 1603870254
+      SNES - Harvest Moon - Jack (1)_20: 1267586770
+      SNES - Harvest Moon - Jack (1)_52: 301164550
+      SNES - Harvest Moon - Jack (1)_36: 885741465
+      SNES - Harvest Moon - Jack (1)_24: 1036533999
+      SNES - Harvest Moon - Jack (1)_3: 207415994
+      SNES - Harvest Moon - Jack (1)_62: -127976576
+      SNES - Harvest Moon - Jack (1)_84: -797365007
+      SNES - Harvest Moon - Jack (1)_65: -889965770
+      SNES - Harvest Moon - Jack (1)_69: 1503188
+      SNES - Harvest Moon - Jack (1)_204: -393192404
+      SNES - Harvest Moon - Jack (1)_81: -1747243870
+      SNES - Harvest Moon - Jack (1)_149: 1888988519
+      SNES - Harvest Moon - Jack (1)_50: -954239075
+      SNES - Harvest Moon - Jack (1)_167: -1264281259
+      SNES - Harvest Moon - Jack (1)_199: -1928197584
+      SNES - Harvest Moon - Jack (1)_93: 1106739483
+      SNES - Harvest Moon - Jack (1)_98: -1084041405
+      SNES - Harvest Moon - Jack (1)_71: -1266311409
+      SNES - Harvest Moon - Jack (1)_15: -736621297
+      SNES - Harvest Moon - Jack (1)_59: 589839112
+      SNES - Harvest Moon - Jack (1)_100: 258862560
+      SNES - Harvest Moon - Jack (1)_119: -574054783
+      SNES - Harvest Moon - Jack (1)_29: -1825969786
+      SNES - Harvest Moon - Jack (1)_76: -2031715356
+      SNES - Harvest Moon - Jack (1)_217: 1407956162
+      SNES - Harvest Moon - Jack (1)_126: 1896947355
+      SNES - Harvest Moon - Jack (1)_192: -1207651929
+      SNES - Harvest Moon - Jack (1)_173: 1747772021
+      SNES - Harvest Moon - Jack (1)_47: 363078861
+      SNES - Harvest Moon - Jack (1)_186: 279815480
+      SNES - Harvest Moon - Jack (1)_67: -12258599
+      SNES - Harvest Moon - Jack (1)_23: -219908648
+      SNES - Harvest Moon - Jack (1)_147: 540536365
+      SNES - Harvest Moon - Jack (1)_156: 1259006199
+      SNES - Harvest Moon - Jack (1)_77: -692681621
+      SNES - Harvest Moon - Jack (1)_51: 1475996060
+      SNES - Harvest Moon - Jack (1)_160: -290151654
+      SNES - Harvest Moon - Jack (1)_41: 773387755
+      SNES - Harvest Moon - Jack (1)_129: -195214094
+      SNES - Harvest Moon - Jack (1)_114: -1334412733
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
